@@ -1,7 +1,8 @@
-### Hola ahí 👋
+
+# Hola ahí 👋
+
+> <p> <span> Español - ESP </span> | <a href=https://github.com/franciscodausmeier/frandausmeier/blob/main/README.md> Spanish - SPA<a/>. </p>
 
 <br>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/frandausmeier/frandausmeier/blob/master/README.md)
-
-<br>
+---
